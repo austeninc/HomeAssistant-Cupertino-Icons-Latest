@@ -1,3 +1,9 @@
+# New Fork - Nothing New Yet!
+This is a new fork and **no changes have been made to @menahishayan original repo!**
+
+I plan to update this with all of the latest symbols from Apple. **ETA is unknown.**
+
+
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/integration)
 
 # Home Assistant Cupertino Icons
